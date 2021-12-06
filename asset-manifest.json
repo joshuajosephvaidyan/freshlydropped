@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/freshlydropped.io/static/css/main.08d8d640.chunk.css",
+    "main.js": "/freshlydropped.io/static/js/main.9166c30b.chunk.js",
+    "main.js.map": "/freshlydropped.io/static/js/main.9166c30b.chunk.js.map",
+    "runtime-main.js": "/freshlydropped.io/static/js/runtime-main.d9e8255e.js",
+    "runtime-main.js.map": "/freshlydropped.io/static/js/runtime-main.d9e8255e.js.map",
+    "static/css/2.73a4b9c4.chunk.css": "/freshlydropped.io/static/css/2.73a4b9c4.chunk.css",
+    "static/js/2.e2b883fc.chunk.js": "/freshlydropped.io/static/js/2.e2b883fc.chunk.js",
+    "static/js/2.e2b883fc.chunk.js.map": "/freshlydropped.io/static/js/2.e2b883fc.chunk.js.map",
+    "static/js/3.b3777ba6.chunk.js": "/freshlydropped.io/static/js/3.b3777ba6.chunk.js",
+    "static/js/3.b3777ba6.chunk.js.map": "/freshlydropped.io/static/js/3.b3777ba6.chunk.js.map",
+    "index.html": "/freshlydropped.io/index.html",
+    "static/css/2.73a4b9c4.chunk.css.map": "/freshlydropped.io/static/css/2.73a4b9c4.chunk.css.map",
+    "static/css/main.08d8d640.chunk.css.map": "/freshlydropped.io/static/css/main.08d8d640.chunk.css.map",
+    "static/js/2.e2b883fc.chunk.js.LICENSE.txt": "/freshlydropped.io/static/js/2.e2b883fc.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d9e8255e.js",
+    "static/css/2.73a4b9c4.chunk.css",
+    "static/js/2.e2b883fc.chunk.js",
+    "static/css/main.08d8d640.chunk.css",
+    "static/js/main.9166c30b.chunk.js"
+  ]
+}
